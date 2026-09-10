@@ -1,0 +1,6 @@
+#must learn
+Flask
+tensorflow
+numpy
+Pillow
+scikit-learn
